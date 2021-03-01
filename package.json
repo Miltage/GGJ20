@@ -30,6 +30,6 @@
     "howler": "^2.1.3",
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0-rc.2",
-    "three": "^0.111.0"
+    "three": "^0.125.0"
   }
 }
